@@ -1,2 +1,2 @@
 # initialproj
-Projects created while learning
+Programs created while learning
